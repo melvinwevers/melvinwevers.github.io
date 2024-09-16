@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://melvinwevers.github.io"
+title: Melvin Wevers
 paginate: 20
 theme: PaperMod
 
@@ -11,25 +11,25 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: CV
+          url: cv.pdf
+          weight: 1
+        - name: Publications
+          url: publications/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Teaching
+          url: teaching/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "Computational Historian"
+    author: Melvin Wevers
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -53,49 +53,47 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: <span style="color:#011F5B">Melvin Wevers</span>
+          subtitle: 
+              Computational Historian 👨‍🍳🚀 at the University of Amsterdam<br><br>
+            Currently working on <br>
+              - a chapter on modeling in historical research <br>
+              - a paper on color use in representations of the Orient <br>
+              - Paul Smaldino's 'Modeling Social Behavior' <br>
+
+            <br>
+            Multimodal Machine Learning • Digital History • Cultural Analytics • Historical Advertisements • Digitized Newspapers
+          
+          imageUrl: "melvin.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Melvin Wevers
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: CV
+              url: cv.pdf
+            - name: Publications
+              url: publications/
+            - name: Teaching
+              url: teaching/
+            # - name: Books
+            #   url: books/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: mailto:melvin.wevers@uva.nl
+        - name: ORCID
+          url: https://orcid.org/0000-0001-8177-4582
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://github.com/melvinwevers
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/melvin-wevers-a0307a270
+
 
     assets:
         disableScrollBarStyle: true
@@ -103,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Melvin Wevers"
       icon: favicon.ico
       iconHeight: 18
 
