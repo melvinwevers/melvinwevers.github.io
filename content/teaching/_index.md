@@ -6,6 +6,8 @@ description: "Courses and workshops"
 # Courses
 
 ## 2024-2025
+- **Sources of Amsterdam**
+  BA History, University of Amsterdam
 - **Digital History Lab**
   BA History, University of Amsterdam
 - **Philosophy of Science**

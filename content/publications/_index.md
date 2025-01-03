@@ -7,6 +7,12 @@ description: "Conference proceedings and articles by Melvin Wevers"
 
 <ul class="publications">
     <li class="publication">
+        Smits, T., Wevers, M. (2024). Coloring in the world of others: color use in visual orientalism, 1890–1920. *Humanit Soc Sci Commun* 11, 1374. https://doi.org/10.1057/s41599-024-03895-5
+    </li>
+       <li class="publication">
+        Ros, R., Wevers, M. (2024). Epistemic Capture Through Specialization in Post-World War II Parliamentary Debate. Proceedings of the Computational Humanities Research Conference 2024. https://ceur-ws.org/Vol-3834/paper39.pdf
+    </li>
+    <li class="publication">
         Petram, L., Koolen, M., Wevers, M., & van Lottum, J. (2024). Charting Lives and Careers: Enriched Data About the Dutch East India Company's Eighteenth-Century European Workforce. <i>Journal of Open Humanities Data</i>, 10(44).
     </li>
     <li class="publication">
