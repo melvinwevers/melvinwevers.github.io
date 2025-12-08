@@ -1,118 +1,111 @@
 baseURL: "https://melvinwevers.github.io"
 title: Melvin Wevers
-paginate: 20
+pagination.pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: CV
-          url: cv.pdf
-          weight: 1
-        - name: Publications
-          url: publications/
-          weight: 2
-        - name: Teaching
-          url: teaching/
-          weight: 3
-        # - name: Data
-        #   url: data/
-        #   weight: 4 
-        # - name: Blog
-        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-        #   weight: 6
+  main:
+    - name: CV
+      url: cv.pdf
+      weight: 1
+    - name: Publications
+      url: publications/
+      weight: 2
+    - name: Teaching
+      url: teaching/
+      weight: 3
+    - name: Blog
+      url: blog/
+      weight: 4
+    # - name: Data
+    #   url: data/
+    #   weight: 5
 
 params:
-    description: "Computational Historian"
-    author: Melvin Wevers
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: <span style="color:#011F5B">Melvin Wevers</span>
-          subtitle: 
-              Computational Historian 👨‍🍳🚀 at the University of Amsterdam<br><br>
-            Currently working on <br>
-              - a chapter on modeling in historical research <br>
-              - a paper on epistemic capture in parliamentary debates <br>
-              - Paul Smaldino's 'Modeling Social Behavior' <br>
+  description: "Computational Historian"
+  author: Melvin Wevers
+  # googleAnalyticsID: "G-XXXXX"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  MainSections: ["books", "courses", "papers", "blog", "data"]
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: <span style="color:#011F5B">Melvin Wevers</span>
+    subtitle:
+      Computational Historian 👨‍🍳🚀 at the University of Amsterdam<br><br>
+      Currently working on <br>
+      - constructing a dataset based on housing registry cards of the city of Amsterdam with Thomas Smits and Tim Verlaan<br>
+      - analyzing historical botanical visual information with Luiza Teixeira Costa and Folgert Karsdorp <br>
+      - prototype a model to capture information cascades in historical newspapers
+      <br>
+      <br>
+      Multimodal Machine Learning • Digital History • Cultural Analytics • Historical Advertisements • Digitized Newspapers
 
-            <br>
-            Multimodal Machine Learning • Digital History • Cultural Analytics • Historical Advertisements • Digitized Newspapers
-          
-          imageUrl: "melvin.jpg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Melvin Wevers
-          buttons:
-            - name: CV
-              url: cv.pdf
-            - name: Publications
-              url: publications/
-            - name: Teaching
-              url: teaching/
-            # - name: Books
-            #   url: books/
-            # - name: Tags
-            #   url: tags/
-            # - name: Archive
-            #   url: archive/
-            # - name: Blog
-            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+    imageUrl: "melvin.jpg"
+    imageWidth: 160
+    imageHeight: 160
+    imageTitle: Melvin Wevers
+    buttons:
+      - name: CV
+        url: cv.pdf
+      - name: Publications
+        url: publications/
+      - name: Teaching
+        url: teaching/
+      - name: Blog
+        url: blog/
 
-    socialIcons:
-        - name: Email
-          url: mailto:melvin.wevers@uva.nl
-        - name: ORCID
-          url: https://orcid.org/0000-0001-8177-4582
-        - name: GitHub
-          url: https://github.com/melvinwevers
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/melvin-wevers-a0307a270
+  socialIcons:
+    - name: Email
+      url: mailto:melvin.wevers@uva.nl
+    - name: ORCID
+      url: https://orcid.org/0000-0001-8177-4582
+    - name: GitHub
+      url: https://github.com/melvinwevers
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/melvin-wevers-a0307a270
 
-
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Melvin Wevers"
-      icon: favicon.ico
-      iconHeight: 18
+  assets:
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+  label:
+    text: "Melvin Wevers"
+    icon: favicon.ico
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
