@@ -25,7 +25,7 @@ If writing code becomes cheap, the bottleneck moves to knowing what to ask. This
 
 History has an uneasy relationship with theory in this sense. Historians work with plenty of concepts, interpretive traditions and narratives, but rarely with explicit frameworks that generate testable expectations. Most historical work is inductive: we read, we notice patterns, we interpret. That has real strengths, and I am not arguing against exploration. But in a workflow that runs through language models it has a cost.
 
-The concepts in a prompt effectively become the program. If they are vague, the model fills the gap with its own implicit theory: the average, common-sense meaning of a category in its training data, which is mostly a present-day meaning. Historians have a name for that problem: anachronism. So without an explicit framework you are not avoiding theory. You are borrowing one from the model without noticing.
+The concepts in a prompt effectively become the program. If they are vague, the model fills the gap with the average, present-day meaning of a category in its training data. Gadamer argued that we never read a source without such a horizon of our own, and that understanding happens when the source puts our expectations at risk. A model cannot put its horizon at risk. We can, but only if we know what we expected. This is what I want from theory: not a method that replaces interpretation, which Gadamer distrusted, but our expectations written down so that the sources can contradict them.
 
 ## The lossy return trip
 
