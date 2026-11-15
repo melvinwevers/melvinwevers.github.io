@@ -74,3 +74,33 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+.pub-year {
+    font-size: 20px;
+    margin: 32px 0 8px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid var(--border);
+}
+
+.publications .publication {
+    margin-bottom: 10px;
+}
+
+.pub-link {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1;
+    padding: 3px 6px;
+    margin-left: 4px;
+    border: 1px solid var(--darkcolor);
+    border-radius: 4px;
+    color: var(--darkcolor) !important;
+    box-shadow: none !important;
+    text-decoration: none !important;
+    vertical-align: 1px;
+}
+
+.pub-link:hover {
+    background: var(--lightcolor);
+}

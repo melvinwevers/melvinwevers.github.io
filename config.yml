@@ -53,20 +53,20 @@ params:
   math: true
   profileMode:
     enabled: true
-    title: <span style="color:#011F5B">Melvin Wevers</span>
-    subtitle:
-      Computational Historian 👨‍🍳🚀 at the University of Amsterdam<br>
-      Scientific Director of the Humanities Labs, University of Amsterdam<br><br>
-      <strong>News</strong><br>
-      - Since August 1, 2026, I am the Scientific Director of the Humanities Labs at the University of Amsterdam<br>
-      - In September 2026, I am a visiting scholar at the D3 Center, Osaka University, hosted by Professor Noa Garcia<br><br>
-      Currently working on <br>
-      - constructing a dataset based on housing registry cards of the city of Amsterdam with Thomas Smits and Tim Verlaan<br>
-      - analyzing historical botanical visual information with Luiza Teixeira Costa and Folgert Karsdorp <br>
-      - prototype a model to capture information cascades in historical newspapers
-      <br>
-      <br>
-      Multimodal Machine Learning • Digital History • Cultural Analytics • Historical Advertisements • Digitized Newspapers
+    title: Melvin Wevers
+    subtitle: |
+      <p class="profile-role">Computational Historian, University of Amsterdam<br>Scientific Director, Humanities Labs</p>
+      <h3 class="profile-heading">News</h3>
+      <ul class="profile-list">
+      <li><b>Aug 2026</b> · Appointed Scientific Director of the Humanities Labs at the University of Amsterdam</li>
+      <li><b>Sep 2026</b> · Visiting scholar at the D3 Center, Osaka University, hosted by Professor Noa Garcia, where I started work on a book on computational history</li>
+      </ul>
+      <h3 class="profile-heading">Currently working on</h3>
+      <ul class="profile-list">
+      <li>A book on computational history</li>
+      <li>Research with a dataset of Amsterdam housing registry cards, which I constructed with Thomas Smits and Tim Verlaan</li>
+      </ul>
+      <p class="profile-tags">Multimodal Machine Learning · Digital History · Cultural Analytics · Historical Advertisements · Digitized Newspapers</p>
 
     imageUrl: "melvin.jpg"
     imageWidth: 160
@@ -85,6 +85,9 @@ params:
   socialIcons:
     - name: Email
       url: mailto:melvin.wevers@uva.nl
+    - name: GoogleScholar
+      title: Google Scholar
+      url: https://scholar.google.com/citations?user=Dt75wtQAAAAJ
     - name: ORCID
       url: https://orcid.org/0000-0001-8177-4582
     - name: GitHub
