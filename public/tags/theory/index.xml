@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Theory on Melvin Wevers</title>
+    <link>https://www.melvinwevers.nl/tags/theory/</link>
+    <description>Recent content in Theory on Melvin Wevers</description>
+    <generator>Hugo -- 0.169.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.melvinwevers.nl/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deterministic code, probabilistic meaning: on translating research back and forth with LLMs</title>
+      <link>https://www.melvinwevers.nl/blog/deterministic-code-probabilistic-meaning/</link>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.melvinwevers.nl/blog/deterministic-code-probabilistic-meaning/</guid>
+      <description>Why LLM-mediated research makes theory and explicitness more important, not less</description>
+    </item>
+  </channel>
+</rss>

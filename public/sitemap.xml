@@ -3,10 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.melvinwevers.nl/blog/</loc>
-    <lastmod>2025-12-08T12:14:05+01:00</lastmod>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.melvinwevers.nl/tags/computational-history/</loc>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.melvinwevers.nl/blog/deterministic-code-probabilistic-meaning/</loc>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.melvinwevers.nl/tags/llms/</loc>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.melvinwevers.nl/</loc>
-    <lastmod>2025-12-08T12:14:05+01:00</lastmod>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.melvinwevers.nl/tags/methodology/</loc>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.melvinwevers.nl/tags/reproducibility/</loc>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.melvinwevers.nl/tags/</loc>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.melvinwevers.nl/tags/theory/</loc>
+    <lastmod>2026-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.melvinwevers.nl/blog/clariah-talk/</loc>
     <lastmod>2025-12-08T12:14:05+01:00</lastmod>
@@ -14,8 +35,6 @@
     <loc>https://www.melvinwevers.nl/archive/</loc>
   </url><url>
     <loc>https://www.melvinwevers.nl/publications/</loc>
-  </url><url>
-    <loc>https://www.melvinwevers.nl/tags/</loc>
   </url><url>
     <loc>https://www.melvinwevers.nl/teaching/</loc>
   </url>

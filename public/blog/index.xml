@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Melvin Wevers</description>
     <generator>Hugo -- 0.169.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 12:14:05 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.melvinwevers.nl/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deterministic code, probabilistic meaning: on translating research back and forth with LLMs</title>
+      <link>https://www.melvinwevers.nl/blog/deterministic-code-probabilistic-meaning/</link>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.melvinwevers.nl/blog/deterministic-code-probabilistic-meaning/</guid>
+      <description>Why LLM-mediated research makes theory and explicitness more important, not less</description>
+    </item>
     <item>
       <title>Rethinking Digital Infrastructure: What a Computational Historian Needs</title>
       <link>https://www.melvinwevers.nl/blog/clariah-talk/</link>
